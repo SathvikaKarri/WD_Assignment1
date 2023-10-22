@@ -1,0 +1,13 @@
+input[type="text"] {
+    width: 50%;
+    margin: 10px 0;
+}
+
+button {
+    background-color: red;
+    cursor: pointer;
+}
+
+body {
+    background-color:purple;
+}
